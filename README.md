@@ -1,106 +1,70 @@
-## Hi there, I'm Amio 👋
+# 👋 Hi, I'm Amio
 
-### Computer Science Graduate | Aspiring Cybersecurity Engineer | AI & ML Enthusiast
+Computer Science Graduate focused on **Cybersecurity**, **Security Engineering**, and **Machine Learning**. Currently building hands-on security skills through labs, projects, and continuous learning.
 
-I'm a Computer Science graduate with a growing focus on **Cybersecurity**, **Machine Learning**, and **Artificial Intelligence**. I enjoy building projects that combine strong theoretical foundations with practical implementation, whether that's security-focused tooling, data-driven applications, or research-oriented systems.
+## 🎯 Focus Areas
 
-Currently, I'm working toward developing industry-ready cybersecurity skills while continuing to explore AI, pattern recognition, and intelligent systems.
+▸ Cybersecurity & Security Operations
+▸ Networking & Linux Administration
+▸ Threat Detection & Incident Response
+▸ Machine Learning & AI Applications
+▸ Security Research & Automation
 
----
+## 🛠️ Tech Stack
 
-## 🚀 Current Focus
+**Languages**
+Python • C • C++ • Java • SQL • Bash
 
-* 🔐 Cybersecurity Fundamentals & Security Engineering
-* 🌐 Networking, Linux, and System Administration
-* 🛡️ Security Operations (SOC) & Threat Analysis
-* 🤖 Machine Learning & AI Applications
-* 📊 Data Analysis and Pattern Recognition
-* 🏗️ Building portfolio projects that solve real-world problems
+**Cybersecurity**
+Linux • Wireshark • Nmap • VirtualBox • Git
 
----
+**AI & Data**
+Machine Learning • Data Analysis • Pattern Recognition
 
-## 🛠️ Technical Skills
+## 📚 Currently Learning
 
-### Programming
+▸ SOC Operations
+▸ Threat Hunting
+▸ Cloud Security
+▸ Detection Engineering
+▸ Advanced Networking
 
-* Python
-* C 
-* Java
-* SQL
+## 🚀 Featured Projects
 
-### Cybersecurity
+▸ Security-focused projects and labs
+▸ Machine Learning applications
+▸ Research-oriented AI systems
+▸ Automation and scripting tools
 
-* Networking Fundamentals
-* Linux Administration
-* Security Concepts
-* Threat Detection & Analysis
-* Vulnerability Assessment
-* SIEM Fundamentals
+## 📫 Connect
 
-### AI & Data Science
-
-* Machine Learning
-* Data Analysis
-* Pattern Recognition
-* Data Visualization
-* Model Evaluation
-
-### Tools & Technologies
-
-* Git & GitHub
-* Linux
-* Docker
-* Wireshark
-* Nmap
-* Virtual Machines
-* Jupyter Notebook
+▸ GitHub: github.com/amio008
+▸ LinkedIn: https://www.linkedin.com/in/amio-malakar-ankon-3a1957407/
 
 ---
 
-## 📚 What I'm Learning
+*"Always learning. Always building."*
 
-* Security Operations Center (SOC) workflows
-* Incident Detection and Response
-* Threat Intelligence
-* Ethical Hacking Fundamentals
-* Cloud Security
-* Advanced Machine Learning Applications
+## 📈 GitHub Stats
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amio008&show_icons=true)
 
-## 🔭 Projects
+## 🔥 GitHub Streak
 
-You'll find repositories related to:
+![GitHub Streak](https://streak-stats.demolab.com?user=amio008)
 
-* Cybersecurity Labs & Practice
-* Security Automation
-* Machine Learning Projects
-* Research-Oriented AI Systems
-* Data Analytics
-* Academic & Personal Experiments
+## 💻 Most Used Languages
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amio008&layout=compact)
 
-## 🎯 Goals
+## 🛠️ Technologies
 
-* Build a strong cybersecurity portfolio
-* Contribute to open-source security projects
-* Pursue advanced studies in Cybersecurity
-* Publish impactful technical projects and research
-* Continuously improve as a security professional and engineer
-
----
-
-## 📫 Connect With Me
-
-* GitHub: https://github.com/amio008
-* LinkedIn: https://www.linkedin.com/in/amio-malakar-ankon-3a1957407/
-
----
-
-> "Stay curious. Build consistently. Learn deeply."
- 👋
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square)
 <!--
 **amio008/amio008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
