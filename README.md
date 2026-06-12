@@ -12,13 +12,13 @@
 
 ## Tech Stack
 
-**Languages**
+**Languages:**
 Python • C • C++ • Java • SQL • Bash
 
-**Cybersecurity**
+**Cybersecurity:**
 Linux • Wireshark • Nmap • VirtualBox • Git
 
-**AI & Data**
+**AI & Data:**
 Machine Learning • Data Analysis • Pattern Recognition
 
 ## Currently Learning
