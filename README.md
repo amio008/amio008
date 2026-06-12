@@ -1,4 +1,4 @@
-## #Hi there, I'm Amiya 👋
+## Hi there, I'm Amiya 👋
 
 ### Computer Science Graduate | Aspiring Cybersecurity Engineer | AI & ML Enthusiast
 
@@ -24,7 +24,7 @@ Currently, I'm working toward developing industry-ready cybersecurity skills whi
 ### Programming
 
 * Python
-* C / C++
+* C 
 * Java
 * SQL
 
@@ -94,7 +94,7 @@ You'll find repositories related to:
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/amio008
-* LinkedIn: *Coming Soon*
+* LinkedIn: https://www.linkedin.com/in/amio-malakar-ankon-3a1957407/
 
 ---
 
