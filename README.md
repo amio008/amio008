@@ -1,4 +1,4 @@
-## Hi there, I'm Amiya 👋
+## Hi there, I'm Amio 👋
 
 ### Computer Science Graduate | Aspiring Cybersecurity Engineer | AI & ML Enthusiast
 
