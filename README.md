@@ -1,6 +1,6 @@
-# Amio
-
-Computer Science Graduate focused on **Cybersecurity**, **Security Engineering**, and **Machine Learning**. Currently building hands-on security skills through labs, projects, and continuous learning.
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1200&color=00C8FF&width=700&lines=Hi+there+%F0%9F%91%8B;I'm+Amio;Cybersecurity+%7C+Security+Engineering;Machine+Learning+%26+AI" alt="Typing SVG" />
+</p>
 
 ## Focus Areas
 
