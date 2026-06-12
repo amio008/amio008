@@ -1,6 +1,8 @@
-# Amio Ankon
+# Amio
 
 Computer Science Graduate focused on **Cybersecurity**, **Security Engineering**, and **Machine Learning**. Currently building hands-on security skills through labs, projects, and continuous learning.
+
+---
 
 ### ▸ Focus Areas
 
@@ -9,6 +11,8 @@ Computer Science Graduate focused on **Cybersecurity**, **Security Engineering**
 • Threat Detection & Incident Response
 • Machine Learning & AI Applications
 • Security Research & Automation
+
+---
 
 ### ▸ Tech Stack
 
@@ -21,6 +25,8 @@ Linux • Wireshark • Nmap • VirtualBox • Git
 **AI & Data**
 Machine Learning • Data Analysis • Pattern Recognition
 
+---
+
 ### ▸ Currently Learning
 
 • SOC Operations
@@ -29,21 +35,28 @@ Machine Learning • Data Analysis • Pattern Recognition
 • Detection Engineering
 • Advanced Networking
 
-### ▸ Featured Projects
+---
+
+### ▸ Project Interests
 
 • Security-focused projects and labs
 • Machine Learning applications
 • Research-oriented AI systems
 • Automation and scripting tools
 
+---
+
 ### ▸ Connect
 
 GitHub: github.com/amio008
+
 LinkedIn: linkedin.com/in/amio-malakar-ankon-3a1957407
 
 ---
 
 *Always learning. Always building.*
+
+---
 
 ### ▸ GitHub Statistics
 
@@ -52,6 +65,8 @@ LinkedIn: linkedin.com/in/amio-malakar-ankon-3a1957407
 ![GitHub Streak](https://streak-stats.demolab.com?user=amio008)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amio008\&layout=compact)
+
+---
 
 ### ▸ Technologies
 
