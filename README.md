@@ -43,7 +43,7 @@ Machine Learning • Data Analysis • Pattern Recognition
 
 ---
 
-*"Always learning. Always building."*
+*Always learning. Always building.*
 
 ## 📈 GitHub Stats
 
