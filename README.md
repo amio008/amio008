@@ -29,6 +29,20 @@ Machine Learning • Data Analysis • Pattern Recognition
 • Detection Engineering
 • Advanced Networking
 
+## Featured Projects
+
+### SOC Home Lab *(In Progress)*
+
+* Ubuntu & VirtualBox-based security lab
+* Log analysis and incident investigation
+* Security monitoring and detection workflows
+
+### Vulnerability Assessment Lab *(Planned)*
+
+* Network reconnaissance with Nmap
+* Service enumeration and analysis
+* Security assessment reporting
+
 ## Project Interests
 
 • Security-focused projects and labs
